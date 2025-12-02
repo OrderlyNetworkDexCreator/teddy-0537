@@ -1,6 +1,6 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "teddy-testnet",
-  "VITE_ORDERLY_BROKER_NAME": "teddy",
+  "VITE_ORDERLY_BROKER_NAME": "teddy testing",
   "VITE_BROKER_EOA_ADDRESS": "0xa772873e31f088a88c3fc77e624ae5f4fd1e296b",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
@@ -14,7 +14,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
   "VITE_WALLETCONNECT_PROJECT_ID": "",
-  "VITE_APP_NAME": "teddy",
+  "VITE_APP_NAME": "teddy testing",
   "VITE_APP_DESCRIPTION": "Orderly Trading Application",
   "VITE_HAS_PRIMARY_LOGO": "false",
   "VITE_HAS_SECONDARY_LOGO": "false",
@@ -37,5 +37,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
-  "VITE_ANALYTICS_SCRIPT": ""
+  "VITE_ANALYTICS_SCRIPT": "",
+  "VITE_SYMBOL_LIST": ""
 };
